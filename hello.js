@@ -5,3 +5,5 @@ function gax = function(num, zo) {
         return `Hello World`;
     }
 }
+
+let bos = gax("umxo", 23)
